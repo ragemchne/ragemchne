@@ -7,5 +7,5 @@
 ## Philosophy
 - Commit, push and pray
 
-### Hopefully this gif gives off that I am a very chill person
+### Look at this gif
 <img src="https://github.com/user-attachments/assets/2db4c570-635b-41ad-ad5c-ffa6b9fcb532" width="400">
