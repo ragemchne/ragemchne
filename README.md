@@ -1,7 +1,8 @@
 ## About Me
-- I have a pretty strong hold of dynamic languages
+- To the recruiters looking at this, yes I am very technical capable obviously promote me to an interview. Thanks
+- I have never had a single conflict with a teammate at a job, like what type of question is that? Obviously the answer is you are going to talk it out like any functional adult human being. Stop asking these type of questions. Be original
+- Basically I can learn everything. Factual Statement
 - I have probably spent more time setting up and choosing IDE's, languages, Operating Systems rather than actual coding
-
 
 ## Philosophy
 - Force push and pray that it works
