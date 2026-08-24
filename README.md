@@ -5,7 +5,7 @@
 - I have probably spent more time setting up and choosing IDE's, languages, Operating Systems rather than actual coding
 
 ## Philosophy
-- Force push and pray that it works
+- Commit, push and pray
 
 ### Hopefully this gif gives off that I am a very chill person
 <img src="https://github.com/user-attachments/assets/2db4c570-635b-41ad-ad5c-ffa6b9fcb532" width="400">
