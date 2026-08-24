@@ -6,7 +6,7 @@
 
 ## Philosophy
 - Commit, push and pray
-- 
+
 ## Currently Learning
 - I learn things that I enjoy
 
