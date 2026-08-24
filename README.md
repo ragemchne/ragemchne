@@ -6,5 +6,5 @@
 ## Philosophy
 - Force push and pray that it works
 
-
+### Hopefully this gif gives off that I am a very chill person
 <img src="https://github.com/user-attachments/assets/2db4c570-635b-41ad-ad5c-ffa6b9fcb532" width="400">
